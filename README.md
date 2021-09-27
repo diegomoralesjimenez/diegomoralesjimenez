@@ -1,6 +1,6 @@
 ### Hi there, I am Diego
 
-[![Diego Moraes](banner.png)](https://www.vulcuscr.com)
+[![Diego Morales](images/banner.png)](https://www.vulcuscr.com)
 
 ## Developer and student
 - I'm currently working on several Web projects
