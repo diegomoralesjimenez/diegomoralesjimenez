@@ -4,7 +4,7 @@
 
 ## Developer and student
 - I'm currently working on several Web projects
-- I'm lookign to collaborate with other content creators
+- I'm looking to collaborate with other content creators
 - I'm learning about Web Design
 - Facts: I love art!
 
